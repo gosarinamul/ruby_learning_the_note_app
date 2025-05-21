@@ -1,0 +1,16 @@
+{
+  "name": "notes_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gosarinamul/ruby_learning_the_note_app.git",
+  "author": "gosarinamul <seulgilee1co@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "3.4.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss-cli": "^0.1.2"
+  }
+}
